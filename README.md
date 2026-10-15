@@ -2,7 +2,7 @@
 
 Este directorio contiene el código fuente completo de la aplicación de demostración en **Android (Kotlin)** para la presentación sobre **OpenStreetMap (OSM)**.
 
-> 📘 **Documento de Arquitectura Completo:** Consulta [Arquitectura_UrbanGO_Demo.md](../Arquitectura_UrbanGO_Demo.md) para ver el desglose técnico de archivos, flujo de datos (diagrama de secuencia), consumo de APIs geoespaciales y renderizado visual.
+> 📘 **Documento de Arquitectura Completo:** Consulta [Arquitectura_UrbanGO_Demo.md](Arquitectura_UrbanGO_Demo.md) para ver el desglose técnico de archivos, flujo de datos (diagrama de secuencia), consumo de APIs geoespaciales y renderizado visual.
 
 ---
 
